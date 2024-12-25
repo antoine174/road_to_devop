@@ -27,7 +27,9 @@ https://www.youtube.com/playlist?list=PL-cxzMmn1xXG87ak7josmprqsp3da_Ovk
 
 2-learn datastructres 
 https://www.youtube.com/watch?v=2ZLl8GAk1X4
-try to choose topic that will be needed in the labs
+
+to help us in the 4th term has nothung to do with devops but it will help in total
+try to choose topic that will be needed in the labs 
 
 3-learn spring 
 still searching for a course 
@@ -48,7 +50,8 @@ https://www.udemy.com/share/103a093@93kEhfVxB6IPZfN2MoxI2Wa6WVikldDfa5pEXJqWa8Z8
 
 
 credit to :
-ENG:Veronica Romany (teacher assistant) ,ENG:Yousef bazina (teacher assistant ),ENG:Sajed (teacher assistant)
+ENG:Veronica Romany (teacher assistant) ,ENG:Yousef bazina (teacher assistant ),ENG:Sajed (teacher assistant)/
+
 ENG:Faris 2025 ,ENG:Hesham 2025.
 
 
